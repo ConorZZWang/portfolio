@@ -196,3 +196,11 @@ footer {
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.12);
 }
+.interest-image {
+    width: 100%;
+    max-width: 400px;
+    margin-top: 12px;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+}
